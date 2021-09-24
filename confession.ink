@@ -174,9 +174,29 @@ They took FREIND_PRONOUN
 "FREIND?? FREIND"
 oh my god what are they doing inside
 what if they put him in that tiny fucking box
-(crying starts blaring through the door)
+(sound of a baby crying starts blaring through the door)
 A baby crying?
 (bang on door one more time)
+sigh
 the clock says 3:00 PM
-* one hour passes
+how long will FREIND_PRONOUN be in there
+* one hour passes 
+->  hour_later
+=== hour_later === 
+the audio of the baby is grating 
+the other people in the room are on edge
+The napping lady (ENEMY) is now awake and occupying her time picked at the peeling paint on the wall
+The PATRIOT did not changed positions. He sits ridigly on the ground looking straight ahead
+the THIRD_CHAR is looking at a photograph and pacing around the room
+Everyone is worn down by the sound of the the fucking baby
+* put your ear to the interrogation room door 
+-> stuff
+=== stuff === 
+its impossible to hear shit over the baby cries
+its not clear how long this is going to last
+What should I do?
++ talk to PATRIOT -> END
++ talk to THIRD_CHAR -> END
++ talk to ENEMY -> END
++ wait -> END
 ->END
